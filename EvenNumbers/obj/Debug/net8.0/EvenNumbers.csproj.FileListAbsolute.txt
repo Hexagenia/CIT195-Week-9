@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 9\EvenNumbers\bin\Debug\net8.0\EvenNumbers.exe
+F:\NMC\Projects\Week 9\EvenNumbers\bin\Debug\net8.0\EvenNumbers.deps.json
+F:\NMC\Projects\Week 9\EvenNumbers\bin\Debug\net8.0\EvenNumbers.runtimeconfig.json
+F:\NMC\Projects\Week 9\EvenNumbers\bin\Debug\net8.0\EvenNumbers.dll
+F:\NMC\Projects\Week 9\EvenNumbers\bin\Debug\net8.0\EvenNumbers.pdb
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\EvenNumbers.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\EvenNumbers.AssemblyInfo.cs
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\EvenNumbers.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\EvenNumbers.dll
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\refint\EvenNumbers.dll
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\EvenNumbers.pdb
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\EvenNumbers.genruntimeconfig.cache
+F:\NMC\Projects\Week 9\EvenNumbers\obj\Debug\net8.0\ref\EvenNumbers.dll

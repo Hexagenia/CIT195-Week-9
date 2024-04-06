@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\bin\Debug\net8.0\Assignment9ex2Operatoroverloading.exe
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\bin\Debug\net8.0\Assignment9ex2Operatoroverloading.deps.json
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\bin\Debug\net8.0\Assignment9ex2Operatoroverloading.runtimeconfig.json
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\bin\Debug\net8.0\Assignment9ex2Operatoroverloading.dll
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\bin\Debug\net8.0\Assignment9ex2Operatoroverloading.pdb
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\Assignment9ex2Operatoroverloading.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\Assignment9ex2Operatoroverloading.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\Assignment9ex2Operatoroverloading.AssemblyInfo.cs
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\Assignment9ex2Operatoroverloading.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\Assignment9ex2Operatoroverloading.dll
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\refint\Assignment9ex2Operatoroverloading.dll
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\Assignment9ex2Operatoroverloading.pdb
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\Assignment9ex2Operatoroverloading.genruntimeconfig.cache
+F:\NMC\Projects\Week 9\Assignment9ex2Operatoroverloading\obj\Debug\net8.0\ref\Assignment9ex2Operatoroverloading.dll

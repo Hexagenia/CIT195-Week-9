@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 9\calculator\bin\Debug\net8.0\calculator.exe
+F:\NMC\Projects\Week 9\calculator\bin\Debug\net8.0\calculator.deps.json
+F:\NMC\Projects\Week 9\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+F:\NMC\Projects\Week 9\calculator\bin\Debug\net8.0\calculator.dll
+F:\NMC\Projects\Week 9\calculator\bin\Debug\net8.0\calculator.pdb
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\calculator.dll
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\refint\calculator.dll
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\calculator.pdb
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+F:\NMC\Projects\Week 9\calculator\obj\Debug\net8.0\ref\calculator.dll
